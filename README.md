@@ -7,6 +7,7 @@ Author: Yondertag
 
 This is rewritten code is based off of the 'BluebotSonar' code from 42bots.
 This code is modeled for the arduino Boebot with continious servos and 
-HC-05 bluetooth module. The code that is designed to control the bluetooth Boebot
-can be downloaded as .apk from Github here: 
+HC-05 bluetooth module. 
+The code that is designed to control the bluetooth Boebot
+can be downloaded as .apk from Github here: https://github.com/Yondertag/Arduino-Bluetooth-Boebot/blob/master/Bluetooth_Boebot_Controller.apk
 The code can be downloaded as .aia from Github here: https://github.com/Yondertag/Arduino-Bluetooth-Boebot/blob/master/Bluetooth_Boebot_Controller.aia
